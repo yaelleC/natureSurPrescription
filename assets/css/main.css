@@ -3261,11 +3261,11 @@ body:after {
 }
 
 .wrapper.style2 header h2:after {
-  background-color: rgba(255, 255, 255, 0.125);
+  background-color: #555;
 }
 
 .wrapper.style2 header p {
-  color: rgba(255, 255, 255, 0.25);
+  color: #555;
 }
 
 @media screen and (max-width: 1280px) {
